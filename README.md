@@ -44,7 +44,7 @@
 
 ![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=utkarsh2210&count_private=true&show_icons=true&theme=radical)&nbsp;
 <a href="https://github.com/utkarsh2210/github-readme-stats">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=utkarsh2210&layout=compact&theme=radical" height=195px width=495/>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=utkarsh2210&layout=compact&theme=radical"/>
 </a>
 </p>
 

@@ -4,11 +4,11 @@
 
 ## About Me 👨‍💻
 
-- 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
-- 🌱 I'm on track for learning more about React, Node and Cloud. 
-- 🏏 I'm a cricket enthusiast and I spend good amount of my free time exchanging banter on r/Cricket.
-- 📝 I'm lowkey into creative writing as well.
-- 🏢 I’m looking to collaborate on MERN stack projects.
+- 💡 &nbsp;Like to explore new technologies and develop software solutions and quick hacks.
+- 🌱 On track for learning more about React, Node and Cloud. 
+- 🏏 Acricket enthusiast and I spend good amount of my free time exchanging banter on r/Cricket.
+- 📝 Lowkey into creative writing as well.
+- 🏢 Looking to collaborate on MERN stack projects.
 <br></br>
 
 ---
